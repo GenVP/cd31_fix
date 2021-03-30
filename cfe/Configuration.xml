@@ -62,6 +62,7 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<Catalog>Конвертации</Catalog>
 			<DataProcessor>ЗагрузкаМодуляМенеджера</DataProcessor>
 		</ChildObjects>
 	</Configuration>

@@ -30,6 +30,18 @@
 					</Type>
 				</Properties>
 			</Attribute>
+			<Attribute uuid="9e640c4b-51a4-4118-b3d8-1ad4ad41d1d9">
+				<InternalInfo/>
+				<Properties>
+					<Name>Конвертация</Name>
+					<Comment/>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<ExtendedConfigurationObject>30c646cc-e8f0-4c93-b72a-c1070a415927</ExtendedConfigurationObject>
+					<Type>
+						<v8:Type>cfg:CatalogRef.Конвертации</v8:Type>
+					</Type>
+				</Properties>
+			</Attribute>
 		</ChildObjects>
 	</DataProcessor>
 </MetaDataObject>
