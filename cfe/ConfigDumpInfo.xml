@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.10">
+	<ConfigVersions>
+		<Metadata name="Configuration.КД3_Fix" id="ac0ca3bb-fd57-456b-a566-7262e5605ead" configVersion="6bc485f3c3a9f4f1e6500feb1092cc0d17836468"/>
+		<Metadata name="DataProcessor.ЗагрузкаМодуляМенеджера" id="2c7c3c39-2625-485b-8749-fc439ed43e3a" configVersion="52b0f95d8d4b3bd47767876c3e781d7f902b1557">
+			<Metadata name="DataProcessor.ЗагрузкаМодуляМенеджера.Attribute.ПКО" id="5b943d1a-2103-462a-a31d-81ffa775b52e"/>
+		</Metadata>
+		<Metadata name="DataProcessor.ЗагрузкаМодуляМенеджера.ObjectModule" id="2c7c3c39-2625-485b-8749-fc439ed43e3a.0" configVersion="54a62c5276750723fd3d8f993d4ec86aac05733f"/>
+		<Metadata name="Language.Русский" id="a98c7b1a-1dfe-4723-b1e4-00444f681edc" configVersion="83b7dd66d5f35d82c7c06b882869f5e846bc79f4"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
